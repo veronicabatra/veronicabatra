@@ -36,18 +36,14 @@
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veronicabatra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Veronica's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabatra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Veronica's Top Languages" />
-</div>
-<br />
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/veronicabatra?theme=tokyonight&font=Syne&ext=activity" alt="Veronica's LeetCode Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veronicabatra&show_icons=true&theme=radical&cache_bypass=2" alt="Veronica's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabatra&layout=compact&theme=radical&cache_bypass=2" alt="Veronica's Top Languages" />
 </div>
 
-### Activity
+### LeetCode Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veronicabatra&bg_color=0D1117&color=70a5fd&line=70a5fd&point=bf8c4e&area=true&hide_border=true" alt="Veronica's Contribution Graph" />
+  <img src="https://leetcard.jacoblin.cool/veronicabatra?theme=dark&font=Syne&ext=heatmap&cache_bypass=2" alt="Veronica's LeetCode Stats & Activity Graph" />
 </div>
 
 ---
