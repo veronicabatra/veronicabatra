@@ -1,7 +1,7 @@
 <div align="center">
-  <h2>Hey, I'm Veronica 👋</h2>
-  <p><b>Software Developer • B.Tech CSE Student</b></p>
-  <p>I like building things that actually work end-to-end. Currently deep in React, Laravel, and figuring out real-time systems.</p>
+  <h1>Hey, I'm Veronica 👋</h1>
+  <h3><b>Software Developer • B.Tech CSE Student</b></p>
+  <p>I like building things that actually work end-to-end. Currently deep in React, Laravel, and figuring out real-time systems.<h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=veronicabatra&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
