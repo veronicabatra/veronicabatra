@@ -33,11 +33,6 @@
 
 <br/>
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veronicabatra&show_icons=true&theme=radical&cache_bypass=2" alt="Veronica's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veronicabatra&layout=compact&theme=radical&cache_bypass=2" alt="Veronica's Top Languages" />
 </div>
 
 ### LeetCode Activity
