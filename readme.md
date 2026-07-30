@@ -46,11 +46,18 @@
   <img src="https://leetcard.jacoblin.cool/veronicabatra?theme=dark&font=Syne&ext=heatmap&cache_bypass=2" alt="Veronica's LeetCode Stats & Activity Graph" />
 </div>
 
+### GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veronicabatra&theme=react-dark&hide_border=true&cache_bypass=3" alt="Veronica's GitHub Contribution Graph" />
+</div>
+
 ---
 
 ### 🛠️ Projects
 
-- **[Appointment Management System (SaaS)](https://veronicaportfoliio.netlify.app/)**: Built a comprehensive, premium appointment scheduling SaaS application using **Laravel**. Engineered features such as dynamic profession-specific booking workflows, robust role-based access control, and time-based appointment completion logic.
+- **[Appointment Management System (SaaS)]:
+ Built a comprehensive, premium appointment scheduling SaaS application using **Laravel**. Engineered features such as dynamic profession-specific booking workflows, robust role-based access control, and time-based appointment completion logic.
 - **[Information Management Portal](#)**: Designed a highly available, self-healing backend using Nginx load balancing and PM2 clustering. Reduced API latency by ~90% and scaled capacity 10x using Redis to offload MongoDB. Built real-time chat with Redis Pub/Sub. *(Node.js, React.js, Express.js, MongoDB)*
 - **[Car Wash Management System](#)**: Engineered a C++ and JS FIFO Queue System, optimizing customer lookup and removal to O(1) time complexity. Developed a persistent logging engine, achieving state recovery and auditing up to 1,000 transactions. *(C++)*
 - **[AI Debate Chatbot](#)**: Built an AI Debate Mentor with Gemini API, achieving <1.2s latency via optimized request handling. Engineered a validation engine blocking off-topic queries. *(HTML, CSS, JavaScript, PHP, MySQL)* 
